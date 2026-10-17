@@ -7,9 +7,13 @@ Es la versión en modo texto del proyecto *Selector de Personajes*; comparte con
 ## Autores 👥
 
 👤 Alexa Abigail Fraire Sandoval
+
 👤 Elizabeth Anabely García Rivera
+
 👤 Celeste Anyelique Garza Mauricio
+
 👤 Rosembert Jared Ortiz Reyes
+
 👤 Lia Kei Uchino Bonney
 
 📖 Descripción general
